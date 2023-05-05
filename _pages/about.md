@@ -12,7 +12,7 @@ I'm a third year undergraduate student from [Zhiyuan College](https://zhiyuan.sj
 
 You can find my CV here: [YuxiangZhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:zhangyuxiangSJTU@outlook.com) / [Github](https://github.com/zyx287) / [Wechat](../images/wechat.jpg) /
+[Email](mailto:zhangyuxiangSJTU@outlook.com) / [Github](zyx287) / [Wechat](../images/wechat.jpg) /
 
 
 
