@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes bioinformatics, computational biology, machine learning, and drug design.
+I'm a third year undergraduate student from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes bioinformatics, computational biology, machine learning, and drug design.
 
 
 
