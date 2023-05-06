@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/
 excerpt: 'Utilized GaMD simulation in 6 different systems, revealing the long range allosteric pathway in FGFR2 kinase'
 date: 2023-4-10
-venue: 'In Press'
+venue: 'J. BIO. STR. DYN. (In Press)'
 ---
