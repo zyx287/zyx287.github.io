@@ -6,3 +6,4 @@ excerpt: 'Utilized GaMD simulation in 6 different systems, revealing the long ra
 date: 2023-5-31
 venue: 'J. BIO. STR. DYN.'
 ---
+Pubmed link: https://pubmed.ncbi.nlm.nih.gov/37254996/
