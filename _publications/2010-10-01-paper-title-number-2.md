@@ -6,4 +6,4 @@ excerpt: 'Utilized large scale MD simulation, revealing the small molecules indu
 date: 2023-7-21
 venue: 'Pharmaceutics'
 ---
-
+Pubmed link: https://pubmed.ncbi.nlm.nih.gov/37514186/
