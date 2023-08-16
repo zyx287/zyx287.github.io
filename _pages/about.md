@@ -20,4 +20,4 @@ For more info
 ------
 You can find my CV (20230412) here: [YuxiangZhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).   
 
-[Email](mailto:zhangyuxiangSJTU@outlook.com) / [Wechat](../images/wechat.png) /
+[Wechat](../images/wechat.png)
