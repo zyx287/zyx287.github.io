@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest includes bioinformatics, computational biology, machine learning, and drug design.
+I'm a fourth year (senior) undergraduate student from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
-
-
-
-
+My research interest includes:   
+  - Bioinformatics and Computational Biology   
+    - Deep learning   
+    - Molecular dynamics simulation   
+  - Biochemistry and Chemical Biology
+    - Atomic mechanism of G protein coupled receptors (GPCRs)
+    - Structure-based drug design
+  - Neuroscience
+    - GPCR activation-based sensors (GRABs)
+    - Neurobiological processes such as emotion, learning, memory and reward
+ 
+I am eagerly looking forward to exploring opportunities for Ph.D. program to further pursue my academic interests!
 
 
 For more info
