@@ -21,7 +21,7 @@ My research interest includes:
     - GPCR activation-based sensors (GRABs)
     - Neurobiological processes such as emotion, learning, memory and reward
  
-I am eagerly looking forward to exploring opportunities for Ph.D. program to further pursue my academic interests!
+I am eagerly looking forward to exploring opportunities for Master's/Ph.D. program to further pursue my academic interests!
 
 
 For more info
