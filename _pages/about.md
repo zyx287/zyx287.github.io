@@ -17,11 +17,11 @@ My research interest includes:
   - Biochemistry and Chemical Biology
     - Atomic mechanism of G protein coupled receptors (GPCRs)
     - Structure-based drug design
-  - Neuroscience
-    - GPCR activation-based sensors (GRABs)
-    - Neurobiological processes such as emotion, learning, memory and reward
+  - Protein Design
+    - Design membrane proteins that function as biosensors
+    - Combine dynamic behavior into rational protein design
  
-I am eagerly looking forward to exploring opportunities for Master's/Ph.D. program to further pursue my academic interests!
+I am looking forward to exploring opportunities for Master's/Ph.D. program to further pursue my interests!
 
 
 For more info
