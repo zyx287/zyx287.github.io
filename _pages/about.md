@@ -19,7 +19,7 @@ My research interest includes:
     - Structure-based drug design
   - Protein Design
     - Design membrane proteins that function as biosensors
-    - Combine dynamic behavior into rational protein design
+    - Combine structural dynamics into rational protein design
  
 I am looking forward to exploring opportunities for Master's/Ph.D. program to further pursue my interests!
 
