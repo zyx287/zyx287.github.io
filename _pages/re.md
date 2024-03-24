@@ -10,14 +10,12 @@ redirect_from:
 {% include base_path %}
 
 # Research Internship
-* **Peking University (School of life science)** [Oct. 2023-Present] 
+* **Peking University (School of life science)** [Nov. 2023-Present] 
 
-* **Institute of Physical and Chemical Research (RIKEN)** [July. 2023-Oct. 2023]
+* **Institute of Physical and Chemical Research (RIKEN)** [July 2023-Oct. 2023]
 
-* **Shanghai Jiao Tong University (School of Electronic Information and Electrical Engineering)** [Apr. 2023-June 2023]
+* **Shanghai Jiao Tong University (College of Basic Medical Sciences)** [July 2022-July 2023]
 
-* **Shanghai Jiao Tong University (College of Basic Medical Sciences)** [Sep. 2022-July. 2023]
-
-* **Shanghai Jiao Tong University (School of Life Sciences and Biotechnology)** [June 2021-July 2022]
+* **Shanghai Jiao Tong University (School of Life Sciences and Biotechnology)** [May 2021-July 2022]
 
 
