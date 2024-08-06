@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year (senior) undergraduate student from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
+I'm currently a research assistant at Janelia Research Campus, supervised by Dr. Jiefu Li. Before joining in Li Lab, I got my bachelor degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
 My research interest includes:   
   - Bioinformatics and Computational Biology   
-    - Deep learning   
+    - Deep learning
+    - Computational bioimaging
     - Molecular dynamics simulation   
   - Biochemistry and Chemical Biology
     - Atomic mechanism of G protein coupled receptors (GPCRs)
@@ -20,12 +21,7 @@ My research interest includes:
   - Protein Design
     - Design membrane proteins that function as biosensors
     - Combine structural dynamics into rational protein design
- 
-I am looking forward to exploring opportunities for Master's/Ph.D. program to further pursue my interests!
 
-
-For more info
 ------
-You can find my CV (20230412) here: [YuxiangZhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).   
 
 [Wechat](../images/wechat.png)

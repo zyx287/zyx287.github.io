@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # Research Internship
-* **Peking University (School of life science)** [Nov. 2023-Present] 
 
-* **Institute of Physical and Chemical Research (RIKEN)** [July 2023-Oct. 2023]
+* **Howard Hughes Medical Institute (Janelia research campus)**, supervised by Dr. Jiefu Li [July 2024-present]
 
-* **Shanghai Jiao Tong University (College of Basic Medical Sciences)** [July 2022-July 2023]
+* **Peking University (School of life science)**, supervised by Professor Yulong Li (Undergraduate thesis) [Nov. 2023-June 2024] 
 
-* **Shanghai Jiao Tong University (School of Life Sciences and Biotechnology)** [May 2021-July 2022]
+* **Institute of Physical and Chemical Research (RIKEN)**, supervised by Professor Katsuyuki Shiroguchi [July 2023-Oct. 2023]
+
+* **Shanghai Jiao Tong University (College of Basic Medical Sciences)**, supervised by Professor Jian Zhang and Professor Shaoyong Lu [July 2022-July 2023]
+
+* **Shanghai Jiao Tong University (School of Life Sciences and Biotechnology)**, supervised by Professor Wupeng Yan [Jan. 2022-July 2022]
 
 

@@ -10,5 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-* B.S. in Biomedical Science, Shanghai Jiao Tong University, 2024(Expected)
-* B.S. in Computer Science (minor), Shanghai Jiao Tong University, 2024(Expected)
+* Bachelor of Science in Biomedical Science and Bachelor of Engineering in Computer Science, Shanghai Jiao Tong University, 2024

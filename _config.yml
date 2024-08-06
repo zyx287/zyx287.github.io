@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuxiang Zhang"
   avatar           : "ZYXjap.png"
-  bio              : "Biomedical Science, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Research assistant at Janelia research campus"
+  location         : "Ashburn, VA, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-6643-2693"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
