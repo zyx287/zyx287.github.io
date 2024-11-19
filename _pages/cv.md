@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-* Bachelor of Science in Biomedical Science and Bachelor of Engineering in Computer Science, Shanghai Jiao Tong University, 2024
+* Bachelor of Science in _Biomedical Science_ and Bachelor of Engineering in _Computer Science_, Shanghai Jiao Tong University, 2024
